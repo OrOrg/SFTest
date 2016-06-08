@@ -1,6 +1,7 @@
 /**
  * An apex page controller that exposes the site login functionality
  * modified by Ashish
+ * made another change
  */
 global with sharing class SiteLoginController {
     global String username {get; set;}
